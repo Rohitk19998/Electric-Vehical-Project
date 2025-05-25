@@ -13,3 +13,7 @@ Dashboard Interaction View Dashboard
 Process
 •	Data Aggregation - Data was grouped and aggregated by variables like vehicle make, model, year, and state to derive key insights.
 •	Descriptive Analytics - Key performance indicators (KPIs) such as Total Vehicles, Total BEV Vehicles, and Total PHEV Vehicles were calculated, alongside Average Electric Range. This provided an overview of the data for quick insights.
+
+ScreenShot /Demo
+
+Example: ![Dashboard Preview](https://github.com/Rohitk19998/Electric-Vehical-Project/blob/main/Demo%20Picture.png).
